@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Tim",
+    "sex": "Male",
+    "position": "Front-end developer",
+    "salary": 70,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Tom",
+    "sex": "Male",
+    "position": "Front-end developer",
+    "salary": 65,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Andy",
+    "sex": "Male",
+    "position": "Front-end developer",
+    "salary": 60,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "David",
+    "sex": "Male",
+    "position": "Back-end developer",
+    "salary": 85,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Max",
+    "sex": "Male",
+    "position": "Back-end developer",
+    "salary": 80,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Ryan",
+    "sex": "Male",
+    "position": "Full-stack developer",
+    "salary": 75,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Regina",
+    "sex": "Female",
+    "position": "Front-end developer",
+    "salary": 72,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Taylor",
+    "sex": "Female",
+    "position": "Front-end developer",
+    "salary": 68,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Nancy",
+    "sex": "Female",
+    "position": "Back-end developer",
+    "salary": 78,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Helen",
+    "sex": "Female",
+    "position": "Back-end developer",
+    "salary": 63,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Chloe",
+    "sex": "Female",
+    "position": "Full-stack developer",
+    "salary": 66,
+    "image": "images/tongyu.png"
+  },
+  {
+    "name": "Lily",
+    "sex": "Female",
+    "position": "Full-stack developer",
+    "salary": 55,
+    "image": "images/tongyu.png"
+  }
+]
