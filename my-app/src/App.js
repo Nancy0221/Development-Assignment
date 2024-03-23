@@ -67,7 +67,20 @@ function App() {
     <div className="App">
       <h1>Employee Information</h1>
       <hr></hr>
-
+      {/* Introduction */}
+      <p>
+        Include a few sentences about the intention of your app and how you are
+        incorporating filter, sort, and aggregation using your theme: I want to
+        make a website about employee information. On the home page, employees
+        can be filtered by job title and gender. In addition, user can also sort
+        by employee salary. For the aggregation part, I want to assume that the
+        user is the boss, and the boss can choose the employees they like for
+        promotion and salary increase. In this section, the name, position, and
+        salary of the selected employee will be displayed. At the same time, the
+        total number of selected employees is also displayed in the bottom of
+        the webpage. Finally, user can clean all searching conditions by
+        clicking the reset button.
+      </p>
       {/* filters, sort, and clear all conditions */}
       <div className="filters">
         <label>
