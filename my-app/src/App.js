@@ -68,7 +68,7 @@ function App() {
       <h1>Employee Information</h1>
       <hr></hr>
       {/* Introduction */}
-      <p>
+      <p className="intro">
         Include a few sentences about the intention of your app and how you are
         incorporating filter, sort, and aggregation using your theme: I want to
         make a website about employee information. On the home page, employees
