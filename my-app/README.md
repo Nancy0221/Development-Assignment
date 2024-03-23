@@ -25,7 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Link to the deployed React app
 
-link here
+https://development-assignment.vercel.app/
 
 ## Any known bugs
 
